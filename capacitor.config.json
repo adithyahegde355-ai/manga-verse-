@@ -1,6 +1,7 @@
-{
-  "appId": "com.mangaverse.reader",
-  "appName": "MangaVerse",
-  "webDir": "dist",
-  "bundledWebRuntime": false
-}
+const config: CapacitorConfig = {
+  appId: "com.mangaverse.reader",
+  appName: "MangaVerse",
+  webDir: "dist"
+};
+
+export default config;
