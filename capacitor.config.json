@@ -1,9 +1,1 @@
-import type { CapacitorConfig } from '@capacitor/cli';
-
-const config: CapacitorConfig = {
-  appId: 'com.mangaverse.reader',
-  appName: 'MangaVerse',
-  webDir: 'dist'
-};
-
-export default config;
+{"appId":"com.mangaverse.reader","appName":"MangaVerse","webDir":"dist","bundledWebRuntime":false}
