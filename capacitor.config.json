@@ -1,0 +1,6 @@
+{
+  "appId": "com.mangaverse.reader",
+  "appName": "MangaVerse",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
